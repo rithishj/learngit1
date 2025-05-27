@@ -5,3 +5,5 @@ updated release
 
 v1.1
 bug fixes done
+
+some bugs fixed
