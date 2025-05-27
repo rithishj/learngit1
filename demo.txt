@@ -1,4 +1,4 @@
 hi, pushing first file into remote repository
 
-v1.1
+v1.0
 updated release
